@@ -29,4 +29,14 @@ public class Login {
         }
         return false;
     }
+
+    public boolean validarLogout(String logoutCode) {
+        return switch (logoutCode) {
+            case "S" -> true;
+            case "" -> false;
+            case "N" -> false;
+            default -> false;
+        };
+
+    }
 }
