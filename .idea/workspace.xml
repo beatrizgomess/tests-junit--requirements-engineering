@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3451a9ea-fcc4-4ec4-9927-8d8f87736da4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/exceptions/CPFInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/exceptions/DataNascimentoInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/exceptions/EmailInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/exceptions/InvalidInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/exceptions/LoginPacienteInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/exceptions/RGInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/model/LoginPaciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/model/Medico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/model/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/repository/MedicoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/repository/PacienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/beatrizTest/EmitirCartaoSusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/beatrizTest/EsqueceuSenhaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/beatrizTest/LoginPacienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/beatrizTest/VerPerfilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/joseTest/AlterarDadosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/joseTest/RegistrarContaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/joseTest/SelecionarPacienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/joseTest/VerEquipeMedicaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ifpe/Deslogar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/model/Deslogar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ifpe/InativarConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/model/InativarConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ifpe/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/model/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ifpe/MudarSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ifpe/model/MudarSenha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestAlterarSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/raphaelTest/TestAlterarSenha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestDeslogar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/raphaelTest/TestDeslogar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestInativarConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/raphaelTest/TestInativarConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/raphaelTest/TestLogin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LSZ976rlqppFCSDlDekeXxEvPa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Maria/Desktop/ProvaTeste&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.VerPerfilTest">
+    <configuration name="RegistrarContaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProvaTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="joseTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="joseTest" />
+      <option name="MAIN_CLASS_NAME" value="joseTest.RegistrarContaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrarContaTest.persistAccountSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProvaTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="joseTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="joseTest" />
+      <option name="MAIN_CLASS_NAME" value="joseTest.RegistrarContaTest" />
+      <option name="METHOD_NAME" value="persistAccountSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrarContaTest.persistAccountWhenAgeLowerThanEighteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProvaTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="joseTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="joseTest" />
+      <option name="MAIN_CLASS_NAME" value="joseTest.RegistrarContaTest" />
+      <option name="METHOD_NAME" value="persistAccountWhenAgeLowerThanEighteen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerPerfilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProvaTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beatrizTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beatrizTest" />
+      <option name="MAIN_CLASS_NAME" value="beatrizTest.VerPerfilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="beatrizTest in ProvaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProvaTeste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beatrizTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="beatrizTest" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VerPerfilTest" />
+        <item itemvalue="JUnit.beatrizTest in ProvaTeste" />
+        <item itemvalue="JUnit.RegistrarContaTest" />
+        <item itemvalue="JUnit.RegistrarContaTest.persistAccountWhenAgeLowerThanEighteen" />
+        <item itemvalue="JUnit.RegistrarContaTest.persistAccountSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3451a9ea-fcc4-4ec4-9927-8d8f87736da4" name="Changes" comment="" />
+      <created>1675866289720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675866289720</updated>
+      <workItem from="1675866291026" duration="200000" />
+      <workItem from="1676212274103" duration="503000" />
+      <workItem from="1676212807220" duration="12648000" />
+      <workItem from="1676293346985" duration="826000" />
+      <workItem from="1676294308688" duration="10796000" />
+      <workItem from="1676393520383" duration="3521000" />
+      <workItem from="1676414852895" duration="2343000" />
+      <workItem from="1676467526133" duration="2890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/joseTest/VerEquipeMedicaTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

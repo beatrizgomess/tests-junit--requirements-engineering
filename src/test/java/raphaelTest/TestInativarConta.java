@@ -1,4 +1,6 @@
-import org.ifpe.InativarConta;
+package raphaelTest;
+
+import org.ifpe.model.InativarConta;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;

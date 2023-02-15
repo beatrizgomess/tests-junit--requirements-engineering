@@ -1,4 +1,6 @@
-package org.ifpe;
+package org.ifpe.model;
+
+import org.ifpe.model.Login;
 
 public class MudarSenha {
 

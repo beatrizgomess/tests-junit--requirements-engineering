@@ -1,4 +1,6 @@
-import org.ifpe.Login;
+package raphaelTest;
+
+import org.ifpe.model.Login;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

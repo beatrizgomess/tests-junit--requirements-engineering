@@ -1,4 +1,6 @@
-import org.ifpe.MudarSenha;
+package raphaelTest;
+
+import org.ifpe.model.MudarSenha;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;

@@ -1,4 +1,6 @@
-import org.ifpe.Deslogar;
+package raphaelTest;
+
+import org.ifpe.model.Deslogar;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;

@@ -1,4 +1,4 @@
-package org.ifpe;
+package org.ifpe.model;
 
 
 
